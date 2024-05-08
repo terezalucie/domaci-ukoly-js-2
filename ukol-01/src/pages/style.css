@@ -11,6 +11,17 @@ body {
     background-color:  #FDA501;
 }
 
+i {
+    color: #C80238;
+    position: relative;
+    top: 1.5rem;
+    right: 3.3rem;
+}
+
+i:hover {
+    color: #a3002c;
+}
+
 header {
     width: 250px;
     margin: 0 auto;
